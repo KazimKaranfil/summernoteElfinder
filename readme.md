@@ -7,7 +7,9 @@ Installation - Yükleme
 Include the following code after Summernote:
 
 <script src="summernote-video-attributes.js"></script>
+
 <script src="summernote-elfinder.js"></script>
+
 
 3. Summernote options
 Finally, customize the Summernote image popover.
