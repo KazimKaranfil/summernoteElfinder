@@ -3,12 +3,12 @@ A plugin for the Summernote WYSIWYG editor.
  <br />
 summernote ile Elfinder entegrasyonu yapar. Vide, Fotoğraf ve link eklemede elfinder çalıştırılarak sunucu taraflı dosyalara erişmenizi sağlar
 
+
+
 Installation - Yükleme
 1. Include JS - 
 Include the following code after Summernote:
-
 <script src="summernote-video-attributes.js"></script>
-
 <script src="summernote-elfinder.js"></script>
 
 
