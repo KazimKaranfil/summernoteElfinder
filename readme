@@ -1,6 +1,5 @@
 
 A plugin for the Summernote WYSIWYG editor.
- <br />
 summernote ile Elfinder entegrasyonu yapar. Vide, Fotoğraf ve link eklemede elfinder çalıştırılarak sunucu taraflı dosyalara erişmenizi sağlar
 
 
@@ -10,13 +9,12 @@ Installation - Yükleme
 Include the following code after Summernote:
 
 <script src="summernote-video-attributes.js"></script>
-
-
 <script src="summernote-elfinder.js"></script>
 
 
 3. Summernote options
-Finally, customize the Summernote image popover.
+Finally, customize.
+
 
 Varsayılan arlar : 
 BsElfinderAddon = {
@@ -31,6 +29,7 @@ BsElfinderAddon = {
 
 
 Örnek kod:
+
 $(document).ready(function() {
 BsElfinderAddon.VideoExt= ".avi,.mp4,.mkv,.wmp,.ogg,.ogv";
  $('#summernote').summernote();
