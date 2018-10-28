@@ -8,7 +8,10 @@ summernote ile Elfinder entegrasyonu yapar. Vide, Fotoğraf ve link eklemede elf
 Installation - Yükleme
 1. Include JS - 
 Include the following code after Summernote:
+
 <script src="summernote-video-attributes.js"></script>
+
+
 <script src="summernote-elfinder.js"></script>
 
 
